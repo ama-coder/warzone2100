@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: warzone2100\n"
 "Report-Msgid-Bugs-To: warzone2100-project@lists.sourceforge.net\n"
-"POT-Creation-Date: 2021-11-28 04:17+0000\n"
+"POT-Creation-Date: 2021-12-11 00:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1849,7 +1849,7 @@ msgstr ""
 #. data/mp/messages/resmessages2.json: $.RES_CYW_MG4.text[1]
 #: data/base/messages/strings/resstrings.txt:66
 #: data/mp/messages/strings/resstrings.txt:17
-#: po/custom/fromJson.txt:560
+#: po/custom/fromJson.txt:556
 msgid "Armed with Cyborg Assault Gun"
 msgstr ""
 
@@ -3647,7 +3647,7 @@ msgstr ""
 #: data/base/messages/strings/resstrings.txt:781
 #: data/mp/messages/strings/resstrings.txt:373
 #: data/mp/messages/strings/resstrings.txt:378
-#: po/custom/fromJson.txt:1101
+#: po/custom/fromJson.txt:1107
 msgid "Best Targets: Base Structures, infantry, wheeled vehicles"
 msgstr ""
 
@@ -3851,7 +3851,7 @@ msgstr ""
 #. ... + 7 refs
 #: data/base/messages/strings/resstrings.txt:893
 #: data/mp/messages/strings/resstrings.txt:413
-#: po/custom/fromJson.txt:1107
+#: po/custom/fromJson.txt:1101
 msgid "Best Targets: Base structures, infantry, wheeled vehicles"
 msgstr ""
 
@@ -4031,7 +4031,7 @@ msgstr ""
 msgid "Move all units into the valley"
 msgstr ""
 
-#: data/base/script/campaign/cam3-1.js:248
+#: data/base/script/campaign/cam3-1.js:249
 msgid "Destroy the missile silos"
 msgstr ""
 
@@ -6458,7 +6458,7 @@ msgstr ""
 #. TRANSLATORS:
 #. data/base/messages/resmessages3.json: $.RES_CYJ_MG4.text[1]
 #. data/mp/messages/resmessages3.json: $.RES_CYJ_MG4.text[1]
-#: po/custom/fromJson.txt:556
+#: po/custom/fromJson.txt:560
 msgid "Armed with Cyborg assault gun"
 msgstr ""
 
@@ -11667,19 +11667,19 @@ msgid "New Systems Tower Available"
 msgstr ""
 
 #. TRANSLATORS:
-#. data/base/messages/resmessagesall.json: $.RES_SENSO1.text[0]
-#. data/mp/messages/resmessagesall.json: $.RES_SENSO1.text[0]
-#: po/custom/fromJson.txt:4240
-msgid "New Systems Turret Available For Design"
-msgstr ""
-
-#. TRANSLATORS:
 #. data/base/messages/resmessages1.json: $.RES_C_CT1.text[0]
 #. data/base/messages/resmessages12.json: $.RES_SY_CBSTU1.text[0]
 #. data/mp/messages/resmessages1.json: $.RES_C_CT1.text[0]
 #. data/mp/messages/resmessages12.json: $.RES_SY_CBSTU1.text[0]
-#: po/custom/fromJson.txt:4246
+#: po/custom/fromJson.txt:4242
 msgid "New Systems Turret Available for Design"
+msgstr ""
+
+#. TRANSLATORS:
+#. data/base/messages/resmessagesall.json: $.RES_SENSO1.text[0]
+#. data/mp/messages/resmessagesall.json: $.RES_SENSO1.text[0]
+#: po/custom/fromJson.txt:4246
+msgid "New Systems Turret Available For Design"
 msgstr ""
 
 #. TRANSLATORS:
@@ -13710,18 +13710,18 @@ msgid "Thermal Armor +35%"
 msgstr ""
 
 #. TRANSLATORS:
-#. data/mp/messages/resmessages3.json: $.RES_V_AH4.text[2]
-#. data/mp/messages/resmessagesall.json: $.RES_V_AH7.text[2]
-#: po/custom/fromJson.txt:5575
+#. data/mp/messages/resmessages2.json: $.RES_V_AH1.text[2]
+#: po/custom/fromJson.txt:5574
 #, no-c-format
-msgid "Thermal Armor +40%"
+msgid "Thermal armor +40%"
 msgstr ""
 
 #. TRANSLATORS:
-#. data/mp/messages/resmessages2.json: $.RES_V_AH1.text[2]
+#. data/mp/messages/resmessages3.json: $.RES_V_AH4.text[2]
+#. data/mp/messages/resmessagesall.json: $.RES_V_AH7.text[2]
 #: po/custom/fromJson.txt:5579
 #, no-c-format
-msgid "Thermal armor +40%"
+msgid "Thermal Armor +40%"
 msgstr ""
 
 #. TRANSLATORS:
@@ -15766,7 +15766,7 @@ msgid "50%"
 msgstr ""
 
 #: src/frontend.cpp:812
-#: src/multiplay.cpp:2219
+#: src/multiplay.cpp:2231
 msgid "Black"
 msgstr ""
 
@@ -16280,7 +16280,7 @@ msgstr ""
 #: src/ingameop.cpp:761
 #: src/ingameop.cpp:849
 #: src/keyedit.cpp:594
-#: src/musicmanager.cpp:780
+#: src/musicmanager.cpp:788
 msgid "Resume Game"
 msgstr ""
 
@@ -16309,7 +16309,7 @@ msgstr ""
 #: src/ingameop.cpp:757
 #: src/ingameop.cpp:845
 #: src/keyedit.cpp:592
-#: src/musicmanager.cpp:779
+#: src/musicmanager.cpp:787
 msgid "Go Back"
 msgstr ""
 
@@ -17769,7 +17769,7 @@ msgstr ""
 
 #: src/keyedit.cpp:575
 #: src/multiint.cpp:1562
-#: src/musicmanager.cpp:769
+#: src/musicmanager.cpp:777
 #: src/titleui/gamefind.cpp:84
 #: src/titleui/protocol.cpp:82
 msgid "Return To Previous Screen"
@@ -18682,12 +18682,12 @@ msgid "MOD REQUESTED!"
 msgstr ""
 
 #: src/multiopt.cpp:347
-#: src/multiplay.cpp:2020
+#: src/multiplay.cpp:2032
 msgid "Warning, this is a map-mod, it could alter normal gameplay."
 msgstr ""
 
 #: src/multiopt.cpp:348
-#: src/multiplay.cpp:2024
+#: src/multiplay.cpp:2036
 msgid "Warning, HOST has altered the game code, and can't be trusted!"
 msgstr ""
 
@@ -18722,97 +18722,97 @@ msgstr ""
 msgid "Auto kicking player %s, invalid command received."
 msgstr ""
 
-#: src/multiplay.cpp:1893
+#: src/multiplay.cpp:1905
 msgid "Map was requested: SENDING MAP!"
 msgstr ""
 
-#: src/multiplay.cpp:1915
+#: src/multiplay.cpp:1927
 msgid "Mod was requested: SENDING MOD!"
 msgstr ""
 
-#: src/multiplay.cpp:1985
+#: src/multiplay.cpp:1997
 msgid "FILE SENT!"
 msgstr ""
 
-#: src/multiplay.cpp:2000
+#: src/multiplay.cpp:2012
 msgid "MAP DOWNLOADED!"
 msgstr ""
 
-#: src/multiplay.cpp:2056
+#: src/multiplay.cpp:2068
 #, c-format
 msgid "Beacon %d"
 msgstr ""
 
-#: src/multiplay.cpp:2165
+#: src/multiplay.cpp:2177
 #, c-format
 msgid "Beacon received from %s!"
 msgstr ""
 
-#: src/multiplay.cpp:2216
+#: src/multiplay.cpp:2228
 msgid "Green"
 msgstr ""
 
-#: src/multiplay.cpp:2217
+#: src/multiplay.cpp:2229
 msgid "Orange"
 msgstr ""
 
-#: src/multiplay.cpp:2218
+#: src/multiplay.cpp:2230
 msgid "Grey"
 msgstr ""
 
-#: src/multiplay.cpp:2220
+#: src/multiplay.cpp:2232
 msgid "Red"
 msgstr ""
 
-#: src/multiplay.cpp:2221
+#: src/multiplay.cpp:2233
 msgid "Blue"
 msgstr ""
 
-#: src/multiplay.cpp:2222
+#: src/multiplay.cpp:2234
 msgid "Pink"
 msgstr ""
 
-#: src/multiplay.cpp:2223
+#: src/multiplay.cpp:2235
 msgid "Cyan"
 msgstr ""
 
-#: src/multiplay.cpp:2224
+#: src/multiplay.cpp:2236
 msgid "Yellow"
 msgstr ""
 
-#: src/multiplay.cpp:2225
+#: src/multiplay.cpp:2237
 msgid "Purple"
 msgstr ""
 
-#: src/multiplay.cpp:2226
+#: src/multiplay.cpp:2238
 msgid "White"
 msgstr ""
 
-#: src/multiplay.cpp:2227
+#: src/multiplay.cpp:2239
 msgid "Bright blue"
 msgstr ""
 
-#: src/multiplay.cpp:2228
+#: src/multiplay.cpp:2240
 msgid "Neon green"
 msgstr ""
 
-#: src/multiplay.cpp:2229
+#: src/multiplay.cpp:2241
 msgid "Infrared"
 msgstr ""
 
-#: src/multiplay.cpp:2230
+#: src/multiplay.cpp:2242
 msgid "Ultraviolet"
 msgstr ""
 
-#: src/multiplay.cpp:2231
+#: src/multiplay.cpp:2243
 msgid "Brown"
 msgstr ""
 
-#: src/multiplay.cpp:2395
+#: src/multiplay.cpp:2407
 msgid "Spectator Mode"
 msgstr ""
 
-#: src/multiplay.cpp:2396
+#: src/multiplay.cpp:2408
 msgid "You are a spectator. Enjoy watching the game!"
 msgstr ""
 
@@ -18821,7 +18821,7 @@ msgid "NOW PLAYING"
 msgstr ""
 
 #: src/musicmanager.cpp:534
-#: src/musicmanager.cpp:680
+#: src/musicmanager.cpp:688
 msgid "Album"
 msgstr ""
 
@@ -18829,11 +18829,11 @@ msgstr ""
 msgid "Date"
 msgstr ""
 
-#: src/musicmanager.cpp:671
+#: src/musicmanager.cpp:679
 msgid "Title"
 msgstr ""
 
-#: src/musicmanager.cpp:860
+#: src/musicmanager.cpp:868
 msgid "MUSIC MANAGER"
 msgstr ""
 
